@@ -20,10 +20,10 @@ global.fluming = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutpu
 global.flarun = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=runner-logo&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&text='
 global.flasmurf = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=smurfs-logo&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&text='
 
-global.ownername = 'berry'
+global.ownername = 'unknown'
 // Other
-global.owner = ['62895328290140']
-global.premium = ['62895328290140']
+global.owner = ['6283826761734']
+global.premium = ['6283826761734']
 global.packname = 'Hisoka Morrow'
 global.author = 'WhatsApp Bot'
 global.wlcm = []
