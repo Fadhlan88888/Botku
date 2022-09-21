@@ -815,7 +815,7 @@ var main = {
 }
   }
 }
-reply(m.chat, `© THE JO BOT PICT`, main)
+reply(m.chat, `©BUG CRASH`, main)
 }
 }
 break
